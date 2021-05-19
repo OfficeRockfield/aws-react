@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "awsreacttest": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
